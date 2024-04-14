@@ -12,7 +12,7 @@ This Python script provides a user-friendly GUI for plotting fluorescence spectr
 
 - **Save Plot Option:** Users can save the plotted fluorescence spectrum by clicking the "Save Plot" button. The plot will be saved in a folder chosen by the user.
 
-
+![image](fluorescence spectrum/Screenshot 2024-04-13 234118.png)
 ## Usage
 
 1. Run the script.
