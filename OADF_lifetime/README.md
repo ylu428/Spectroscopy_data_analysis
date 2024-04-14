@@ -14,6 +14,7 @@ This Python script is designed to plot optically-activated delayed fluorescence 
   
 - **Zoomed-In View with Inset:** An inset can be added to the plot for a zoomed-in view, allowing users to focus on specific time and intensity ranges.
 
+![image](https://github.com/ylu428/Spectroscopy_data_analysis/blob/main/Fluorescence%20spectrum/Screenshot%202024-04-13%20234118.png)
 
 ## Usage
 
