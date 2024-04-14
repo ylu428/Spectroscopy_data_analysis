@@ -1,8 +1,8 @@
-# Optically-Activated Delayed Fluorescence Lifetime Plotter
+# Optically-Activated Delayed Fluorescence Lifetime/Time-trace Plotter
 
 ## Overview
 
-This Python script is designed to plot optically-activated delayed fluorescence lifetime (OADF) data measured from the National Instrument photon counting board. The script offers a user-friendly GUI for file selection, supports up to 4 traces visualization in one figure, and provides customization options for plot titles, curve names, and zoomed-in views.
+This Python script is designed to plot optically-activated delayed fluorescence lifetime (OADF) or time-trace data measured from the National Instrument photon counting board. The script offers a user-friendly GUI for file selection, supports up to 4 traces visualization in one figure, and provides customization options for plot titles, curve names, and zoomed-in views.
 
 ## Features
 
@@ -14,7 +14,7 @@ This Python script is designed to plot optically-activated delayed fluorescence 
   
 - **Zoomed-In View with Inset:** An inset can be added to the plot for a zoomed-in view, allowing users to focus on specific time and intensity ranges.
 
-![image](https://github.com/ylu428/Spectroscopy_data_analysis/blob/main/OADF_lifetime/Screenshot%202024-04-14%20002933.png)
+![image](https://github.com/ylu428/Spectroscopy_data_analysis/blob/main/OADF_lifetime%20and%20Timetrace/Screenshot%202024-04-14%20002933.png)
 
 ## Usage
 
